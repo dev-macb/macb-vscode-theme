@@ -1,0 +1,43 @@
+{
+    "name":        "macb-vscode-theme",
+    "displayName": "MacB",
+    "version":     "0.1.0",
+    "license":     "MIT",
+    "publisher":   "dev-macb",
+    "author": { "name": "Miguel Alves Cordeiro Braz", "email": "dev.macb@gmail.com" },
+    "description": "Um tema Visual Studio Code para seus códigos sairem da caixa.",
+    "icon": "assets/logo-macb.png",
+    "categories": [ "Themes" ],
+    "keywords":   [ "macb", "MacB", "dark", "escuro", "light", "claro", "tema", "theme", "color-theme", "dev-macb" ],
+    "galleryBanner": { 
+        "color": "#2850B8", 
+        "theme": "dark"
+    },
+    "repository": { 
+        "type": "git", 
+        "url": "https://github.com/dev-macb/macb-vscode-theme" 
+    },
+    "bugs": { "url": "https://github.com/dev-macb/macb-vscode-theme/issues" },
+    "engines": { "vscode": "^1.43.0" },    
+    "scripts": { 
+        "package": "vsce package --no-yarn",
+        "publish": "node publish --no-yarn"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "MacB - Claro",
+                "uiTheme": "vs",
+                "path": "./themes/macb-light.json"
+            },
+            {
+                "label": "MacB - Escuro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/macb-dark.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "vsce": "^2.14.0"
+    }
+}
