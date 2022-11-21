@@ -27,9 +27,9 @@
 
 
 <div align="center">
-    <img src="./assets/images/icone-macb.png" alt="" width="300px"/>
+    <img src="./assets/images/printscreen-macb-escuro.png" alt="" width="1920px"/>
     <br/>
-    <img src="./assets/images/icone-macb.png" alt="" width="300px"/>
+    <img src="./assets/images/printscreen-macb-claro.png" alt="" width="1920px"/>
     <br/>
     <p>O tema MacB inclui variantes para texto normal e itálico.</p>
     <a href="https://marketplace.visualstudio.com/items?itemName=dev-macb.macb-vscode-theme">
