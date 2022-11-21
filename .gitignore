@@ -1,2 +1,4 @@
 # Ignorar pasta de módulos do Node
 node_modules
+dist
+*.lock
