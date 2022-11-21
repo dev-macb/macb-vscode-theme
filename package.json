@@ -1,12 +1,12 @@
 {
     "name":        "macb-vscode-theme",
     "displayName": "MacB",
-    "version":     "0.1.0",
+    "version":     "0.2.0",
     "license":     "MIT",
     "publisher":   "dev-macb",
     "author": { "name": "Miguel Alves Cordeiro Braz", "email": "dev.macb@gmail.com" },
     "description": "Um tema Visual Studio Code para seus códigos sairem da caixa.",
-    "icon": "assets/logo-macb.png",
+    "icon": "assets/images/icone-macb.png",
     "categories": [ "Themes" ],
     "keywords":   [ "macb", "MacB", "dark", "escuro", "light", "claro", "tema", "theme", "color-theme", "dev-macb" ],
     "galleryBanner": { 
