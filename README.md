@@ -1,5 +1,5 @@
 <div id="título" align="center">
-    <img width="200px" alt="Braz - Gerador & Validador" src="./assets/images/macb-icone.png"/>
+    <img width="200px" alt="Braz - Gerador & Validador" src="./assets/images/icone-macb.png"/>
 </div>
 
 
@@ -27,9 +27,9 @@
 
 
 <div align="center">
-    <img src=".github/assets/macb-icone.png" alt="" width="300px"/>
+    <img src="./assets/images/icone-macb.png" alt="" width="300px"/>
     <br/>
-    <img src=".github/assets/macb-icone.png" alt="" width="300px"/>
+    <img src="./assets/images/icone-macb.png" alt="" width="300px"/>
     <br/>
     <p>O tema MacB inclui variantes para texto normal e itálico.</p>
     <a href="https://marketplace.visualstudio.com/items?itemName=dev-macb.macb-vscode-theme">
