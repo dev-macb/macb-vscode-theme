@@ -1,8 +1,3 @@
-<div id="título" align="center">
-    <img width="200px" alt="Braz - Gerador & Validador" src="./assets/images/icone-macb.png"/>
-</div>
-
-
 <h1 align="center">MacB</h1>
 <p align="center">Leve seus códigos para fora da caixa com o tema MacB!</p>
 
@@ -33,12 +28,10 @@
     <br/>
     <p>O tema MacB inclui variantes para texto normal e itálico.</p>
     <a href="https://marketplace.visualstudio.com/items?itemName=dev-macb.macb-vscode-theme">
-    <img alt="GitHub" src="https://img.shields.io/static/v1.svg?label=Download&message=VS%20Code&style=for-the-badge&labelColor=001752&color=2850B8">
-</a>
+        <img alt="GitHub" src="https://img.shields.io/static/v1.svg?label=Download&message=VS%20Code&style=for-the-badge&labelColor=001752&color=2850B8">
+    </a>
 </div>
-
-
----
+<p align="center">🔷</p>
 
 
 

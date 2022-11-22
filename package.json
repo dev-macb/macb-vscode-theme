@@ -1,7 +1,7 @@
 {
     "name":        "macb-vscode-theme",
     "displayName": "MacB",
-    "version":     "0.2.0",
+    "version":     "0.3.2",
     "license":     "MIT",
     "publisher":   "dev-macb",
     "author": { "name": "Miguel Alves Cordeiro Braz", "email": "dev.macb@gmail.com" },
