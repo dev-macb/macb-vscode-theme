@@ -1,6 +1,6 @@
 {
     "name": "macb-vscode-theme",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "displayName": "MacB Theme",
     "description": "Um tema Visual Studio Code para seus códigos sairem da caixa.",
     "publisher": "dev-macb",
@@ -37,13 +37,18 @@
     "contributes": {
       "themes": [
         {
-          "label": "Claro",
+          "label": "MacB (Claro)",
           "uiTheme": "vs",
           "path": "./themes/macb-claro.json"
         },
         {
-          "label": "Escuro",
+          "label": "MacB (Escuro)",
           "uiTheme": "vs-dark",
+          "path": "./themes/macb-escuro.json"
+        },
+        {
+          "label": "MacB (Preto/Branco)",
+          "uiTheme": "hc-black",
           "path": "./themes/macb-escuro.json"
         }
       ]
