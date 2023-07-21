@@ -2,6 +2,10 @@
 <p align="center">Leve seus códigos para fora da caixa com o tema MacB!</p>
 
 
+
+
+
+
 <div align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=dev-macb.macb-vscode-theme">
         <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/dev-macb.macb-vscode-theme?label=Vers%C3%A3o&style=for-the-badge&labelColor=001752&color=2850B8">
@@ -22,14 +26,14 @@
 
 
 <div align="center">
-    <img src="./images/screenshot-escuro.png" />
-    <br/>
-    <img src="./images/screenshot-claro.png" />
-    <br/>
-    <p>O tema MacB inclui variantes para texto normal e itálico.</p>
-    <a href="https://marketplace.visualstudio.com/items?itemName=dev-macb.macb-vscode-theme">
+
+![Tema Claro](images/screenshot-escuro.png)
+![Tema Claro](images/screenshot-claro.png)
+
+<p>O tema MacB inclui variantes para texto normal e itálico.</p>
+<a href="https://marketplace.visualstudio.com/items?itemName=dev-macb.macb-vscode-theme">
         <img alt="GitHub" src="https://img.shields.io/static/v1.svg?label=Download&message=VS%20Code&style=for-the-badge&labelColor=001752&color=2850B8">
-    </a>
+</a>
 </div>
 <p align="center">🔷</p>
 

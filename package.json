@@ -11,10 +11,10 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/dev-macb/vscode-theme-macb.git"
+      "url": "https://github.com/dev-macb/macb-vscode-theme.git"
     },
     "bugs": {
-      "url": "https://github.com/dev-macb/vscode-theme-macb/issues"
+      "url": "https://github.com/dev-macb/macb-vscode-theme/issues"
     },
     "categories": [
       "Themes"
@@ -32,7 +32,7 @@
       "vscode": "^1.19.0"
     },
     "scripts": {
-      "build": "vsce package --no-yarn"
+      "build": "vsce package --no-yarn --out ./build/"
     },
     "contributes": {
       "themes": [
