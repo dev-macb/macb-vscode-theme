@@ -1,8 +1,8 @@
 # Ignorar arquivos do projeto
+*.log
 *.lock
+*.vsix
 
-# Ignorar pasta de módulos do Node
-node_modules
-
-# Ignorar arquivos de distribuição
-dist/*.vsix
+# Ignorar diretórios
+/build
+/node_modules

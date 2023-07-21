@@ -22,9 +22,9 @@
 
 
 <div align="center">
-    <img src="./images/screenshot-escuro.png" alt="" width="1920px"/>
+    <img src="./images/screenshot-escuro.png" />
     <br/>
-    <img src="./images/screenshot-claro.png" alt="" width="1920px"/>
+    <img src="./images/screenshot-claro.png" />
     <br/>
     <p>O tema MacB inclui variantes para texto normal e itálico.</p>
     <a href="https://marketplace.visualstudio.com/items?itemName=dev-macb.macb-vscode-theme">
