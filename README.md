@@ -22,9 +22,9 @@
 
 
 <div align="center">
-    <img src="./assets/images/printscreen-macb-escuro.png" alt="" width="1920px"/>
+    <img src="./images/screenshot-escuro.png" alt="" width="1920px"/>
     <br/>
-    <img src="./assets/images/printscreen-macb-claro.png" alt="" width="1920px"/>
+    <img src="./images/screenshot-claro.png" alt="" width="1920px"/>
     <br/>
     <p>O tema MacB inclui variantes para texto normal e itálico.</p>
     <a href="https://marketplace.visualstudio.com/items?itemName=dev-macb.macb-vscode-theme">
@@ -47,14 +47,22 @@
     <li>Selecione o tema em pelo menu <code>File -> Preferences -> Settings -> Workbench -> Color Theme -> MacB</code>.</li>
 </ol>
 <p>
+    Ou baixe utilizando a CLI do VS Code:
+</p>
+
+``` bash
+$ code --install-extension dev-macb.vscode-theme-macb
+``` 
+<p>
     Para clonar o projeto para sua máquina via <a href="https://git-scm.com/">git</a>, execute os comandos a seguir:
 </p>
 
 ``` bash
-$ mkdir tema-macb && cd tema-macb
-$ git clone https://github.com/dev-macb/tema-macb
+$ mkdir vscode-theme-macb && cd vscode-theme-macb
+$ git clone https://github.com/dev-macb/vscode-theme-macb
 $ yarn install && yarn build
 ``` 
+
 <p align="center">🔷</p>
 
 
